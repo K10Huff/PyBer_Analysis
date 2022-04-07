@@ -6,9 +6,10 @@ The purpose of the analysis was to illustrate the differences in ride-sharing am
 # Results
 As can been seen in the summary images, urban riders outspend both suburban and rural communities in Total Rides and Total Fares. However, rural customers spend more on individual rides and the rural drivers average 3.5x more than their urban counterparts per ride.
 
-![PyBer_fare_summary](https://github.com/K10Huff/PyBer_Analysis/blob/fafe20c587c274c848681153a57ce95733d40346/Resources/PyBer_fare_summary.png)
-![Data_summary](https://github.com/K10Huff/PyBer_Analysis/blob/fafe20c587c274c848681153a57ce95733d40346/Resources/Data_Summary.png)
-![Time_summary](https://github.com/K10Huff/PyBer_Analysis/blob/fafe20c587c274c848681153a57ce95733d40346/Resources/Time_Summary.png)
+![PyBer_fare_summary](https://github.com/K10Huff/PyBer_Analysis/blob/fafe20c587c274c848681153a57ce95733d40346/Resources/PyBer_fare_summary.png)  
+Summary of Fares over Time for Different City Types  
+![Data_summary](https://github.com/K10Huff/PyBer_Analysis/blob/fafe20c587c274c848681153a57ce95733d40346/Resources/Data_Summary.png)  
+Summary Table of Overall Averages by City Type  
 
 # Summary: 
 Business recommendations to the CEO include:
